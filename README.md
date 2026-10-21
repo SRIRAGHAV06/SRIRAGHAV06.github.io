@@ -1,2 +1,4 @@
-# SRIRAGHAV06.github.io
-My professional portfolio website
+
+
+## Portfolio sections
+The portfolio separates **Courses**, **Achievements**, and **Certificates** into independent sections for easier recruiter navigation.
